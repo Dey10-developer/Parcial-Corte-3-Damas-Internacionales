@@ -13,3 +13,8 @@ innovador.
 ---
 
 ## Desarrollos innovadores
+
+1. Contador de Movimientos
+2. Barra de Victoria 
+
+   
