@@ -1,13 +1,11 @@
-## ¿Para qué se implementó? 
+# Parcial - Corte 3 - Damas Internacionales
 
-
----
-
-## ¿Por qué se consideró necesario?
-
+**Estudiantes**
+- Juan David Sandoval  
+- Ana María Cubides
 
 ---
 
-## ¿Cómo se llevó a cabo su implementación?
-
-   
+## Desarrollos innovadores
+- Contador de movimientos
+- Barra de Victoria
