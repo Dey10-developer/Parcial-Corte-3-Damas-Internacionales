@@ -8,7 +8,19 @@ Se introdujo el contador de movimiento para que los jugadores, de manera clara y
 Este componente, aunque no es un requerimiento mínimo del proyecto, mejora significativamente la experiencia del usuario al proporcionar una retroalimentación numérica y clara sobre el avance en el juego. Asimismo, promueve la autocompetencia porque posibilita que cada jugador valore su estilo de juego y su eficacia, lo que lo impulsa a mejorar en cada encuentro.
 
 **¿Cómo se llevó a cabo su implementación?** 
+El contador de movimientos se implementó dentro de la clase `Game`, la cual esta localizada en el archivo `main.cpp`, como una variable entera llamada `moveCount`.  
+A esta se le asigna un valor inicial de cero dentro de la función `resetGame()`:
 
+Acontinuación se muestra el fragmento exacto en donde se puede evidenciar este desarrollo innovador
+```cpp
+void resetGame(const string &name1, const string &name2) {
+    p1 = Player(name1, PlayerType::PLAYER1);
+    p2 = Player(name2, PlayerType::PLAYER2);
+    board = Board();
+    current = PlayerType::PLAYER1;
+    moveCount = 0; // Contador reiniciado al inicio del juego
+}
+Finalmente se imprime el número total de movimientos realizados durante toda la partida.
 
 ## 2. Barra de Victoria
 **¿Para qué se implementó?**
