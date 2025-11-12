@@ -20,6 +20,7 @@ void resetGame(const string &name1, const string &name2) {
     current = PlayerType::PLAYER1;
     moveCount = 0; // Contador reiniciado al inicio del juego
 }
+```
 Finalmente se imprime el número total de movimientos realizados durante toda la partida.
 
 ## 2. Barra de Victoria
