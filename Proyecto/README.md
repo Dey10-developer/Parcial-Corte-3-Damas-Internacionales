@@ -45,4 +45,4 @@ void showWinMessage(const Player &winner) const {
         cout << "\nSigue brillando con la corona, " << winner.name << "!\n";
     }
 ```
-La pausa de 60 milisegundos genera un efecto visual de animación gracias al timing perfecto, simulando asi una barra de victoria muy entretenida.
+Al final, la pausa de 60 milisegundos genera un efecto visual de animación gracias al timing perfecto, simulando asi una barra de victoria muy entretenida.
