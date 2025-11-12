@@ -1,6 +1,6 @@
 # Parcial - Corte 3 - Damas Internacionales
 
-**Estudiantes**
+## Estudiantes
 - Juan David Sandoval  
 - Ana María Cubides
 
