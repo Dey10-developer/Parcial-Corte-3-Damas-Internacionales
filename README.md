@@ -1,20 +1,13 @@
-# Parcial-Corte-3-Damas-Internacionales
+## ¿Para qué se implementó? 
 
-**Estudiantes**
-- Juan David Sandoval  
-- Ana María Cubides
 
 ---
 
-## Descripción
-Repositorio entregable del proyecto parcial-corte 3. Este contiene un README principal y una carpeta para el proyecto donde se encuentre el código y un README secundario explicando detalladamente cada desarrollo 
-innovador.
+## ¿Por qué se consideró necesario?
+
 
 ---
 
-## Desarrollos innovadores
-
-1. Contador de Movimientos
-2. Barra de Victoria 
+## ¿Cómo se llevó a cabo su implementación?
 
    
